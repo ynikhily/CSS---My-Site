@@ -75,10 +75,11 @@ hr {
   margin-right: 30px;
 }
 
-.flask-image {
-  width: 25%;
+.django-image {
+  width: 30%;
   float: right;
   margin-left: 30px;
+  margin-top: 20px;
 }
 
 .skill-row{
